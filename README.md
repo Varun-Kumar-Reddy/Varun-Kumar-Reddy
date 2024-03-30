@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar Reddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<a href="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"
 
+
+<img align="center" alt="coding" width="400" src="https://www.google.com/search?client=firefox-b-d&sca_esv=8bdb3d41053c44ad&sca_upv=1&sxsrf=ACQVn0_kNnxvTfCXD1wrikiqV_drd_HD5A:1711794294429&q=coding+gif+image&uds=AMwkrPvswS92c7VMQrYYRTqoTsMwzo_gwvmH1y--XQLtfKuFbdRnY87tzBzI5PCwZFIA3n17DVYs9QuButLr7u2qQzdCgjZg4MHUGLLHdy7w9OGSwlwIgt9jplMQh845pqDqKSY52d9388KFf9NcJwiuY1HuoeXQS3K_RDjTurHjY04PkILUG_4BV0NM5sTl7cBeTXQm5uMDcXuVOYRtO16TmRq6B38YW3l03FOmHToMLixYoFu6mX7-V_s8o7t9fFStUTg8YTCiSqSRlY93txPf8CFEw3fzoH8VHq_AtyYFnFgzsxJ9TXJaluXQUYVMCfO-NdL8ZslC&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwiA8uPW4puFAxXvU2wGHXU0AgMQtKgLegQIHBAB&biw=1536&bih=704&dpr=1.25#imgrc=I27d9Sp9_gAr5M&imgdii=cA1QLyyFBWMIxM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-kumar-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="varun-kumar-reddy" /> </p>
 
 - 🔭 I’m currently working on **Front-end**
