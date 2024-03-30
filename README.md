@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="center" alt="coding" width="400" src="https://www.google.com/search?client=firefox-b-d&sca_esv=8bdb3d41053c44ad&sca_upv=1&sxsrf=ACQVn0_kNnxvTfCXD1wrikiqV_drd_HD5A:1711794294429&q=coding+gif+image&uds=AMwkrPvswS92c7VMQrYYRTqoTsMwzo_gwvmH1y--XQLtfKuFbdRnY87tzBzI5PCwZFIA3n17DVYs9QuButLr7u2qQzdCgjZg4MHUGLLHdy7w9OGSwlwIgt9jplMQh845pqDqKSY52d9388KFf9NcJwiuY1HuoeXQS3K_RDjTurHjY04PkILUG_4BV0NM5sTl7cBeTXQm5uMDcXuVOYRtO16TmRq6B38YW3l03FOmHToMLixYoFu6mX7-V_s8o7t9fFStUTg8YTCiSqSRlY93txPf8CFEw3fzoH8VHq_AtyYFnFgzsxJ9TXJaluXQUYVMCfO-NdL8ZslC&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwiA8uPW4puFAxXvU2wGHXU0AgMQtKgLegQIHBAB&biw=1536&bih=704&dpr=1.25#imgrc=I27d9Sp9_gAr5M&imgdii=cA1QLyyFBWMIxM">
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-kumar-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="varun-kumar-reddy" /> </p>
 
 - 🔭 I’m currently working on **Front-end**
