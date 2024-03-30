@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-kumar-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="varun-kumar-reddy" /> </p>
 
-- 🔭 I’m currently working on **Front-end**
+- 🔭 I’m currently working on **Front-end developer**
 
 - 🌱 I’m currently learning **Node js,mangoDB**
 
