@@ -4,13 +4,11 @@
 
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-kumar-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="varun-kumar-reddy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-kumar-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="varun-kumar-reddy" /> </
 
-- 🔭 I’m currently working on **Front-end developer**
+- 🌱 I’m currently learning **Cyber security**
 
-- 🌱 I’m currently learning **Node js,mangoDB**
-
-- 🤝 I’m looking for help with **Html,Css,javascript**
+- 🤝 I’m looking for help with **linux,Autopsy**
 
 - 📫 How to reach me **reddyvarun961@gmail.com**
 
